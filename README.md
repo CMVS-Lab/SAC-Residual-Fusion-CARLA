@@ -1,4 +1,4 @@
-# Residual Sensor Fusion based on SAC for Carla
+# Residual Sensor Fusion based on SAC for CARLA
 
 ### Proposed Approach Architecture
 
