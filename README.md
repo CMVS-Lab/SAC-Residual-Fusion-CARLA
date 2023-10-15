@@ -1,4 +1,4 @@
-# SAC-Residual-Fusion-Carla
+# Residual Sensor Fusion based on Soft Actor Critic for Carla
 
 ### Proposed Approach Architecture
 
